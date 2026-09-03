@@ -9,5 +9,4 @@ Goals for This Course
   Gain a basic understanding of python, enough to make projects of my own, simple things, id like to make a platformer either during this course or afterwards on my own!
 
 My First Python Program
-  print ("hello essam!")
-
+  ```print ("hello essam!")```
