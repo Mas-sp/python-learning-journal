@@ -6,8 +6,8 @@ About Me
   My name is Essam Bashiti, im 19, im a physics major, i like reading, stargazing, playing videogames and hiking.
 
 Goals for This Course
-  Gain a basic understanding of python, enough to make projects of my own, simple things.
+  Gain a basic understanding of python, enough to make projects of my own, simple things, id like to make a platformer either during this course or afterwards on my own!
 
 My First Python Program (include a simple "Hello, World!" program in a code block)
-idk how to do this yet
+print ("hello world!")
 
