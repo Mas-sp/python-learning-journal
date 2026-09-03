@@ -8,6 +8,6 @@ About Me
 Goals for This Course
   Gain a basic understanding of python, enough to make projects of my own, simple things, id like to make a platformer either during this course or afterwards on my own!
 
-My First Python Program (include a simple "Hello, World!" program in a code block)
-print ("hello world!")
+My First Python Program
+  print ("hello essam!")
 
